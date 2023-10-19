@@ -20,3 +20,8 @@ SEO e semântica de HTML e CSS.
 Tempo de desenvolvimento.
 Atenção ao detalhe.
 Segurança da informação.
+
+# DATA/HORA 
+
+Projeto iniciou dia 18/10
+ás 8hs e terninou dia 19/10 às 17hs
